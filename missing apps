@@ -3,3 +3,14 @@ apps
 find app
 add group
 to inlucded 
+
+
+
+Issue seems to be caused by licenses if user has e5 everything gets installed if not then manual group has to be configured to app itself
+
+endpoint all apps
+find apps
+ properties
+edit assignments
+add security group 
+
